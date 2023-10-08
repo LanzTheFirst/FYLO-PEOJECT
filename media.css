@@ -424,6 +424,7 @@ nav .fa-bars{
   height: 220px;
   background-color: hsl(243, 87%, 12%);
   padding: 10px;
+  padding-bottom: 20px;
 }
 .first-review br,
 .second-review br{
