@@ -132,6 +132,7 @@ nav .fa-bars{
 }
 .ceo{
   display: flex;
+  padding-top: 15px;
 }
 .ceo img{
   width: 50px;
