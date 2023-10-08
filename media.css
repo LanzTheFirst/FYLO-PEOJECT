@@ -420,8 +420,8 @@ nav .fa-bars{
 .first-review,
 .second-review,
 .third-review{
-  width: 60%;
-  height: 200px;
+  width: 65%;
+  height: 230px;
   background-color: hsl(243, 87%, 12%);
   padding: 20px;
 }
