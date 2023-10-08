@@ -414,14 +414,14 @@ nav .fa-bars{
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  min-height: 9git 0vh;
+  min-height: 90vh;
   color: #fff;
 }
 .first-review,
 .second-review,
 .third-review{
   width: 65%;
-  height: 230px;
+  height: 220px;
   background-color: hsl(243, 87%, 12%);
   padding: 20px;
 }
